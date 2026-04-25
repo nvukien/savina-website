@@ -1,0 +1,282 @@
+/* ============================================
+   Savina.vn - Shared Page Styles
+   Used by About, Contact, Enrollment, News
+   ============================================ */
+
+/* Page hero banner */
+.page-hero {
+  background: linear-gradient(145deg, #0d2e2f 0%, #134e4a 40%, #2B8E96 100%);
+  padding: 80px 24px;
+  text-align: center;
+}
+
+.page-hero h1 {
+  color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  margin: 0;
+  animation: fadeInUp 0.7s ease-out;
+}
+
+.page-hero p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  margin-top: 12px;
+  animation: fadeInUp 0.7s ease-out 0.2s backwards;
+}
+
+/* Page section */
+.page-section {
+  padding: 80px 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.page-section--gray {
+  background: #f8fafc;
+}
+
+.page-section h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 16px;
+}
+
+.page-section p {
+  font-size: 16px;
+  color: #4b5563;
+  line-height: 1.8;
+}
+
+/* Mission/Vision cards */
+.mv-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 32px;
+}
+
+.mv-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 32px;
+  border: 1px solid #f0f0f0;
+  transition: box-shadow 0.3s ease;
+}
+
+.mv-card:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+.mv-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  background: rgba(43, 142, 150, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  color: #2B8E96;
+  margin-bottom: 20px;
+}
+
+.mv-card h3 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1a1a2e;
+  margin-bottom: 12px;
+}
+
+.mv-card p {
+  font-size: 15px;
+  color: #4b5563;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* Values grid */
+.values-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.value-card {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.value-card:hover {
+  background: rgba(43, 142, 150, 0.06);
+  transform: translateY(-4px);
+}
+
+.value-number {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #2B8E96;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 auto 16px;
+}
+
+.value-card h4 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a2e;
+  margin-bottom: 8px;
+}
+
+.value-card p {
+  font-size: 14px;
+  color: #6b7280;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* Contact page */
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 48px;
+}
+
+.contact-info-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.contact-info-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.contact-info-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: rgba(43, 142, 150, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: #2B8E96;
+  flex-shrink: 0;
+}
+
+.contact-info-text {
+  font-size: 15px;
+  color: #4b5563;
+  line-height: 1.6;
+  padding-top: 10px;
+}
+
+.contact-map-placeholder {
+  margin-top: 32px;
+  background: #f1f5f9;
+  border-radius: 12px;
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #94a3b8;
+  font-size: 14px;
+  gap: 8px;
+}
+
+/* University cards */
+.uni-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 32px;
+}
+
+.uni-card {
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 32px;
+  border: 1px solid rgba(43, 142, 150, 0.15);
+  transition: all 0.3s ease;
+}
+
+.uni-card:hover {
+  border-color: #2B8E96;
+  box-shadow: 0 8px 30px rgba(43, 142, 150, 0.1);
+}
+
+.uni-card h3 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #134e4a;
+  margin-bottom: 12px;
+}
+
+.uni-card p {
+  font-size: 15px;
+  color: #4b5563;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* CTA button */
+.page-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #f59e0b;
+  color: #134e4a;
+  padding: 14px 40px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.page-cta:hover {
+  background: #d97706;
+  transform: translateY(-2px);
+}
+
+/* Submit button */
+.submit-btn {
+  background: #f59e0b;
+  border: 1px solid #f59e0b;
+  color: #134e4a;
+  font-weight: 600;
+  height: 48px;
+  padding: 0 40px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.submit-btn:hover {
+  background: #d97706;
+  border-color: #d97706;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .page-hero h1 { font-size: 28px; }
+  .page-hero p { font-size: 15px; }
+  .page-section { padding: 48px 24px; }
+  .mv-grid { grid-template-columns: 1fr; }
+  .contact-grid { grid-template-columns: 1fr; }
+  .uni-grid { grid-template-columns: 1fr; }
+  .values-grid { grid-template-columns: repeat(2, 1fr); }
+}

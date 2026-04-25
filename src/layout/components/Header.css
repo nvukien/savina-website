@@ -1,0 +1,125 @@
+/* ============================================
+   Savina.vn - Header
+   Sticky, glassmorphism, responsive
+   ============================================ */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 68px;
+}
+
+/* Logo */
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.header-logo-circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #2B8E96;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-logo-text {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  color: #1a1a2e;
+}
+
+/* Navigation */
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.header-nav-link {
+  font-size: 15px;
+  font-weight: 400;
+  color: #4b5563;
+  text-decoration: none;
+  padding-bottom: 4px;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+}
+
+.header-nav-link:hover {
+  color: #2B8E96;
+}
+
+.header-nav-link.active {
+  font-weight: 500;
+  color: #2B8E96;
+  border-bottom-color: #2B8E96;
+}
+
+/* Right side */
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* CTA button */
+.header-cta {
+  display: inline-block;
+  background: #f59e0b;
+  border: 1px solid #f59e0b;
+  color: #134e4a;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 8px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.header-cta:hover {
+  background: #d97706;
+  border-color: #d97706;
+  transform: translateY(-1px);
+}
+
+/* Mobile menu button */
+.header-mobile-btn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 8px;
+  color: #4b5563;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header-nav,
+  .header-cta {
+    display: none;
+  }
+
+  .header-mobile-btn {
+    display: block;
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "enrollment": "Enrollment",
+    "news": "News",
+    "contact": "Contact",
+    "register": "Register"
+  },
+  "hero": {
+    "title": "Education & Technology",
+    "titleHighlight": "for the AI Era",
+    "subtitle": "Savina accompanies you on your journey of learning, career development, and applying artificial intelligence in the new era",
+    "cta": "Explore Programs",
+    "ctaSecondary": "About Savina"
+  },
+  "stats": {
+    "years": "Years of Experience",
+    "students": "Students & Trainees",
+    "countries": "Countries of Operation",
+    "partners": "Strategic Partners"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Savina provides comprehensive solutions in Human Resources, Education, and High-tech Agriculture",
+    "enrollment": {
+      "title": "Distance University Enrollment",
+      "desc": "Distance learning degree programs in partnership with Thanh Dong University and Dong Thap University — accredited degrees, online learning, ideal for workers in Vietnam, Japan, Korea, and Taiwan."
+    },
+    "elearning": {
+      "title": "Japanese Language Training",
+      "desc": "Japanese language programs from N5 to N3, ensuring N4 proficiency before departure. Experienced instructors who have studied and worked in Japan."
+    },
+    "edtech": {
+      "title": "High-tech Agriculture",
+      "desc": "Integrating and applying advanced technology in agricultural research, experimentation, and production to improve productivity and quality."
+    },
+    "training": {
+      "title": "Labor Export to Japan",
+      "desc": "Supplying workforce to the Japanese market with direct employer contracts, comprehensive training in vocational skills and language."
+    },
+    "assessment": {
+      "title": "Study Abroad Consulting",
+      "desc": "Consulting and supporting study abroad procedures for Japan, partnered with prestigious institutions like Tamritsu Tokyo Academy."
+    },
+    "career": {
+      "title": "Career & Employment",
+      "desc": "Career counseling, connecting employment opportunities for Vietnamese workers in Japan and upon their return."
+    }
+  },
+  "partners": {
+    "title": "Strategic Partners",
+    "subtitle": "Savina partners with prestigious universities and organizations"
+  },
+  "cta": {
+    "title": "Ready to start a new journey?",
+    "subtitle": "Register now for a free consultation on distance university enrollment, labor export, or studying in Japan",
+    "button": "Register for Consultation"
+  },
+  "about": {
+    "title": "About Savina",
+    "story": {
+      "title": "Our Story",
+      "content": "SAVINA International Investment Joint Stock Company operates in human resource development for the Japanese market, distance university education, and high-tech agricultural applications. Savina is proud to be a leading training and labor supply enterprise in Vietnam, with experienced instructors and modern facilities. We are committed to the comprehensive development of workers through specialized programs in knowledge, soft skills, and professional conduct."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "Bringing high-quality career development and learning opportunities to Vietnamese people, especially workers abroad, through professional training and direct enterprise connections."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To become Vietnam's leading enterprise in international human resource development, distance education, and technology applications in education and agriculture."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are always ready to consult and support you",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "12th Floor, Mipec Tower, 229 Tay Son, Ngo Tu So, Dong Da, Hanoi",
+      "phone": "0913 187 386",
+      "email": "info@savina.vn",
+      "hours": "Mon - Fri: 8:00 - 17:30"
+    }
+  },
+  "footer": {
+    "desc": "Human Resources · Education · High-tech Agriculture",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactInfo": "Contact",
+    "copyright": "© 2026 SAVINA International Investment JSC. All rights reserved."
+  },
+  "notFound": "The page you are looking for does not exist."
+}
