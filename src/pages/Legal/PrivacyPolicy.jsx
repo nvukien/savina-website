@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import usePageMeta from 'hooks/usePageMeta';
-import FadeInSection from 'components/FadeInSection';
 import './Legal.css';
 
 export default function PrivacyPolicy() {
@@ -15,7 +14,6 @@ export default function PrivacyPolicy() {
       </section>
 
       <section style={{ background: '#fff' }}>
-        <FadeInSection>
           <div className="legal-container">
             <div className="legal-meta">
               <p><strong>Công ty TNHH Đầu tư Quốc tế Savina</strong></p>
@@ -293,7 +291,6 @@ export default function PrivacyPolicy() {
               <Link to="/terms-of-service">← Điều khoản Dịch vụ / Terms of Service</Link>
             </div>
           </div>
-        </FadeInSection>
       </section>
     </>
   );

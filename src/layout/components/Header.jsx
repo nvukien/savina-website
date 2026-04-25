@@ -28,6 +28,8 @@ export default function Header() {
     { path: '/enrollment', label: t('nav.enrollment') },
     { path: '/news', label: t('nav.news') },
     { path: '/contact', label: t('nav.contact') },
+    { path: '/terms-of-service', label: 'Điều khoản' },
+    { path: '/privacy-policy', label: 'Bảo mật' },
   ];
 
   const langMenuItems = languages.map((lang) => ({

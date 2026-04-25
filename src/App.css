@@ -35,3 +35,14 @@ a { transition: color 0.2s ease; }
   from { opacity: 0; transform: translateY(24px); }
   to   { opacity: 1; transform: translateY(0); }
 }
+
+/* FadeInSection — scroll-triggered animation (global) */
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.fade-in-section.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
