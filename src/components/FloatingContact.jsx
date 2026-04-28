@@ -1,13 +1,12 @@
 /**
  * FloatingContact — floating chat/contact button
- * Messenger + Zalo + Phone options
+ * 3 channels: Zalo OA + Messenger Fanpage + Hotline
  */
 import React, { useState, useCallback, useEffect } from 'react';
-import { useTranslation } from 'react-i18next';
+import { SAVINA_CONTACT } from 'config/contactChannels';
 
 export default function FloatingContact() {
   const [open, setOpen] = useState(false);
-  const { t } = useTranslation();
   const toggle = useCallback(() => setOpen(prev => !prev), []);
 
   useEffect(() => {
@@ -23,26 +22,28 @@ export default function FloatingContact() {
     <div className="float-contact">
       <div className={`float-contact-menu ${open ? 'open' : ''}`}>
         <a
-          href="https://zalo.me/3420418196937207390"
+          href={SAVINA_CONTACT.zalo}
           target="_blank"
           rel="noopener noreferrer"
           className="float-contact-option"
           onClick={() => setOpen(false)}
+          aria-label="Chat qua Zalo OA"
         >
           <span className="float-contact-icon zalo">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="white">
               <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.2-.08-.06-.19-.04-.28-.02-.12.03-2.07 1.32-5.84 3.87-.55.38-1.05.56-1.5.55-.49-.01-1.44-.28-2.15-.51-.87-.28-1.56-.43-1.5-.91.03-.25.38-.51 1.05-.78 4.12-1.79 6.87-2.97 8.26-3.54 3.94-1.63 4.76-1.91 5.3-1.92.12 0 .38.03.55.17.14.12.18.28.2.47.02.06.01.24-.01.38z"/>
             </svg>
           </span>
-          Zalo
+          Zalo OA
         </a>
 
         <a
-          href="https://m.me/tuxa.daihocthanhdong"
+          href={SAVINA_CONTACT.messenger}
           target="_blank"
           rel="noopener noreferrer"
           className="float-contact-option"
           onClick={() => setOpen(false)}
+          aria-label="Chat qua Messenger"
         >
           <span className="float-contact-icon messenger">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="white">
@@ -53,23 +54,24 @@ export default function FloatingContact() {
         </a>
 
         <a
-          href="tel:0901234567"
+          href={`tel:${SAVINA_CONTACT.phone}`}
           className="float-contact-option"
           onClick={() => setOpen(false)}
+          aria-label={`Gọi hotline ${SAVINA_CONTACT.phoneDisplay}`}
         >
           <span className="float-contact-icon phone">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="white">
               <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
             </svg>
           </span>
-          {t('nav.contact')}
+          Hotline {SAVINA_CONTACT.phoneDisplay}
         </a>
       </div>
 
       <button
         className={`float-contact-btn ${open ? 'open' : ''}`}
         onClick={toggle}
-        aria-label="Contact"
+        aria-label="Liên hệ Savina"
       >
         {!open && <span className="float-contact-ping" />}
         <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
