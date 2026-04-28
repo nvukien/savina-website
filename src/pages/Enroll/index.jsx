@@ -18,7 +18,7 @@ import dayjs from 'dayjs';
 import usePageMeta from 'hooks/usePageMeta';
 import useEnrollmentForm from 'hooks/useEnrollmentForm';
 import coursesData from 'data/courses.json';
-import { submitEnrollment } from 'API';
+import { submitEnrollment } from '../../API';
 import { trackEvent } from 'hooks/useTrackEvent';
 import './EnrollPage.css';
 
