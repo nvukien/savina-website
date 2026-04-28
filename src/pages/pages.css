@@ -270,6 +270,20 @@
   border-color: #d97706;
 }
 
+/* Info pill (CourseDetail) */
+.info-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  background: #f0fdfa;
+  border: 1px solid rgba(43, 142, 150, 0.2);
+  border-radius: 999px;
+  font-size: 14px;
+  color: #134e4a;
+  font-weight: 500;
+}
+
 /* News cards */
 .news-grid {
   display: grid;

@@ -19,6 +19,7 @@ import FadeInSection from 'components/FadeInSection';
 import HeroParticles from 'components/HeroParticles';
 import SectionHeader from 'components/SectionHeader';
 import FloatingContact from 'components/FloatingContact';
+import TestimonialSection from 'components/TestimonialSection';
 import './HomePage.css';
 
 const services = [
@@ -133,6 +134,12 @@ export default function Home() {
           </div>
         </FadeInSection>
       </section>
+
+      {/* ===== TESTIMONIALS ===== */}
+      <TestimonialSection
+        tag={t('partners.title')}
+        title="Học viên Savina nói gì?"
+      />
 
       {/* ===== CTA ===== */}
       <section className="cta-section">

@@ -2,10 +2,110 @@
   "nav": {
     "home": "ホーム",
     "about": "会社概要",
+    "courses": "プログラム",
     "enrollment": "入学案内",
     "news": "ニュース",
     "contact": "お問い合わせ",
     "register": "登録"
+  },
+  "enroll": {
+    "title": "出願",
+    "tagline": "4ステップを3分で完了 — Savinaが24時間以内にご連絡します",
+    "step": {
+      "course": "プログラム選択",
+      "personal": "個人情報",
+      "context": "現状",
+      "confirm": "確認"
+    },
+    "field": {
+      "university": "大学",
+      "course": "プログラム",
+      "fullName": "氏名",
+      "email": "メール",
+      "phone": "電話番号",
+      "dob": "生年月日",
+      "hometown": "出身地（省/市）",
+      "currentCountry": "現在居住地",
+      "currentJob": "現在の職業",
+      "qualification": "現在の学歴",
+      "note": "ご質問・備考（任意）"
+    },
+    "country": {
+      "VN": "ベトナム",
+      "JP": "日本",
+      "KR": "韓国",
+      "TW": "台湾",
+      "OTHER": "その他"
+    },
+    "qualification": {
+      "thpt": "高校卒業",
+      "trung_cap": "中等職業教育",
+      "cao_dang": "短大",
+      "dai_hoc": "大学（2つ目の学位）",
+      "other": "その他"
+    },
+    "btn": {
+      "next": "次へ",
+      "back": "戻る",
+      "submit": "登録を完了する",
+      "submitting": "送信中...",
+      "newReg": "別のプログラムに登録"
+    },
+    "validation": {
+      "required": "この項目は必須です",
+      "email": "メールアドレスが無効です",
+      "phone": "電話番号が無効です"
+    },
+    "success": {
+      "title": "登録が完了しました！",
+      "code": "あなたの登録コード",
+      "desc": "Savinaは24時間以内にメールと電話でご連絡いたします。",
+      "homeBtn": "ホームへ",
+      "viewCourses": "他のプログラムを見る"
+    },
+    "error": {
+      "generic": "エラーが発生しました。再度お試しいただくか、ホットライン +84 913 187 386 までご連絡ください。",
+      "rateLimit": "リクエストが多すぎます。1分ほどお待ちください。"
+    },
+    "review": {
+      "title": "登録情報の確認",
+      "edit": "編集"
+    }
+  },
+  "courses": {
+    "title": "プログラム一覧",
+    "tagline": "正規大学学士号、完全オンライン — 世界中のベトナム人のために",
+    "filterTitle": "プログラムを絞り込む",
+    "filter": {
+      "university": "大学",
+      "field": "分野",
+      "search": "プログラム名で検索",
+      "sort": "並び替え",
+      "all": "すべて",
+      "reset": "リセット"
+    },
+    "sort": {
+      "name": "名前 (A-Z)",
+      "tuitionAsc": "学費 安い順",
+      "tuitionDesc": "学費 高い順",
+      "newest": "新着順"
+    },
+    "card": {
+      "duration": "{{years}}年",
+      "credits": "{{count}}単位",
+      "tuitionPerCredit": "{{amount}} VND/単位",
+      "tuitionContact": "学費はお問い合わせください",
+      "viewDetail": "詳細を見る",
+      "register": "今すぐ登録"
+    },
+    "empty": {
+      "title": "該当するプログラムがありません",
+      "desc": "フィルターを調整するか、検索をクリアしてください。",
+      "cta": "すべてクリア"
+    },
+    "result": {
+      "found": "{{count}}件のプログラム"
+    }
   },
   "hero": {
     "title": "教育を、",

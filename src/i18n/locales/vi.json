@@ -2,10 +2,110 @@
   "nav": {
     "home": "Trang chủ",
     "about": "Về Savina",
+    "courses": "Chương trình",
     "enrollment": "Tuyển sinh",
     "news": "Tin tức",
     "contact": "Liên hệ",
     "register": "Đăng ký"
+  },
+  "enroll": {
+    "title": "Đăng ký xét tuyển",
+    "tagline": "Hoàn thành 4 bước trong 3 phút — Savina sẽ liên hệ tư vấn trong 24 giờ",
+    "step": {
+      "course": "Chọn ngành",
+      "personal": "Thông tin cá nhân",
+      "context": "Hoàn cảnh",
+      "confirm": "Xác nhận"
+    },
+    "field": {
+      "university": "Trường đại học",
+      "course": "Ngành học",
+      "fullName": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "dob": "Ngày sinh",
+      "hometown": "Quê quán (tỉnh/thành)",
+      "currentCountry": "Bạn đang sống tại",
+      "currentJob": "Nghề nghiệp hiện tại",
+      "qualification": "Bằng cấp đã có",
+      "note": "Câu hỏi / ghi chú thêm (không bắt buộc)"
+    },
+    "country": {
+      "VN": "Việt Nam",
+      "JP": "Nhật Bản",
+      "KR": "Hàn Quốc",
+      "TW": "Đài Loan",
+      "OTHER": "Khác"
+    },
+    "qualification": {
+      "thpt": "Tốt nghiệp THPT",
+      "trung_cap": "Trung cấp",
+      "cao_dang": "Cao đẳng",
+      "dai_hoc": "Đại học (lấy bằng 2)",
+      "other": "Khác"
+    },
+    "btn": {
+      "next": "Tiếp tục",
+      "back": "Quay lại",
+      "submit": "Hoàn tất đăng ký",
+      "submitting": "Đang gửi...",
+      "newReg": "Đăng ký ngành khác"
+    },
+    "validation": {
+      "required": "Vui lòng nhập trường này",
+      "email": "Email không hợp lệ",
+      "phone": "Số điện thoại không hợp lệ"
+    },
+    "success": {
+      "title": "Đăng ký thành công!",
+      "code": "Mã đăng ký của bạn",
+      "desc": "Savina sẽ liên hệ tư vấn qua email và số điện thoại bạn cung cấp trong vòng 24 giờ.",
+      "homeBtn": "Về trang chủ",
+      "viewCourses": "Xem chương trình khác"
+    },
+    "error": {
+      "generic": "Có lỗi xảy ra. Vui lòng thử lại hoặc liên hệ hotline 0913 187 386.",
+      "rateLimit": "Bạn đã gửi quá nhiều lần. Vui lòng đợi 1 phút và thử lại."
+    },
+    "review": {
+      "title": "Xác nhận thông tin đăng ký",
+      "edit": "Sửa"
+    }
+  },
+  "courses": {
+    "title": "Chương trình đào tạo",
+    "tagline": "Bằng cử nhân đại học chính quy, học 100% online — phù hợp người Việt mọi nơi",
+    "filterTitle": "Lọc chương trình",
+    "filter": {
+      "university": "Trường đại học",
+      "field": "Lĩnh vực",
+      "search": "Tìm theo tên ngành",
+      "sort": "Sắp xếp",
+      "all": "Tất cả",
+      "reset": "Đặt lại bộ lọc"
+    },
+    "sort": {
+      "name": "Tên ngành (A-Z)",
+      "tuitionAsc": "Học phí tăng dần",
+      "tuitionDesc": "Học phí giảm dần",
+      "newest": "Mới nhất"
+    },
+    "card": {
+      "duration": "{{years}} năm",
+      "credits": "{{count}} tín chỉ",
+      "tuitionPerCredit": "{{amount}}đ/tín chỉ",
+      "tuitionContact": "Liên hệ tư vấn",
+      "viewDetail": "Xem chi tiết",
+      "register": "Đăng ký ngay"
+    },
+    "empty": {
+      "title": "Không tìm thấy ngành phù hợp",
+      "desc": "Thử điều chỉnh bộ lọc hoặc xoá từ khoá tìm kiếm.",
+      "cta": "Xoá tất cả bộ lọc"
+    },
+    "result": {
+      "found": "Tìm thấy {{count}} chương trình"
+    }
   },
   "hero": {
     "title": "Giáo dục cho",

@@ -2,10 +2,110 @@
   "nav": {
     "home": "Home",
     "about": "About",
+    "courses": "Programs",
     "enrollment": "Enrollment",
     "news": "News",
     "contact": "Contact",
     "register": "Register"
+  },
+  "enroll": {
+    "title": "Apply for Admission",
+    "tagline": "Complete 4 steps in 3 minutes — Savina will contact you within 24 hours",
+    "step": {
+      "course": "Select Program",
+      "personal": "Personal Info",
+      "context": "Context",
+      "confirm": "Confirm"
+    },
+    "field": {
+      "university": "University",
+      "course": "Program",
+      "fullName": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "dob": "Date of Birth",
+      "hometown": "Hometown (Province/City)",
+      "currentCountry": "Currently living in",
+      "currentJob": "Current Occupation",
+      "qualification": "Existing Qualification",
+      "note": "Questions / Additional Notes (optional)"
+    },
+    "country": {
+      "VN": "Vietnam",
+      "JP": "Japan",
+      "KR": "South Korea",
+      "TW": "Taiwan",
+      "OTHER": "Other"
+    },
+    "qualification": {
+      "thpt": "High School Graduate",
+      "trung_cap": "Vocational",
+      "cao_dang": "College",
+      "dai_hoc": "Bachelor's (2nd degree)",
+      "other": "Other"
+    },
+    "btn": {
+      "next": "Continue",
+      "back": "Back",
+      "submit": "Complete Registration",
+      "submitting": "Submitting...",
+      "newReg": "Register another program"
+    },
+    "validation": {
+      "required": "This field is required",
+      "email": "Invalid email",
+      "phone": "Invalid phone number"
+    },
+    "success": {
+      "title": "Registration successful!",
+      "code": "Your registration code",
+      "desc": "Savina will contact you via email and phone within 24 hours.",
+      "homeBtn": "Go to homepage",
+      "viewCourses": "View other programs"
+    },
+    "error": {
+      "generic": "An error occurred. Please try again or call hotline +84 913 187 386.",
+      "rateLimit": "Too many requests. Please wait 1 minute and try again."
+    },
+    "review": {
+      "title": "Review your information",
+      "edit": "Edit"
+    }
+  },
+  "courses": {
+    "title": "Programs",
+    "tagline": "Accredited Bachelor's degree, 100% online — for Vietnamese everywhere",
+    "filterTitle": "Filter programs",
+    "filter": {
+      "university": "University",
+      "field": "Field",
+      "search": "Search by program name",
+      "sort": "Sort",
+      "all": "All",
+      "reset": "Reset filters"
+    },
+    "sort": {
+      "name": "Name (A-Z)",
+      "tuitionAsc": "Tuition: low to high",
+      "tuitionDesc": "Tuition: high to low",
+      "newest": "Newest"
+    },
+    "card": {
+      "duration": "{{years}} years",
+      "credits": "{{count}} credits",
+      "tuitionPerCredit": "{{amount}} VND/credit",
+      "tuitionContact": "Contact for tuition",
+      "viewDetail": "View details",
+      "register": "Register now"
+    },
+    "empty": {
+      "title": "No matching programs",
+      "desc": "Try adjusting filters or clearing search.",
+      "cta": "Clear all filters"
+    },
+    "result": {
+      "found": "{{count}} programs found"
+    }
   },
   "hero": {
     "title": "Education for the",

@@ -7,6 +7,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Drawer, Dropdown, Button, Space } from 'antd';
 import { MenuOutlined, GlobalOutlined, DownOutlined } from '@ant-design/icons';
+import { trackEvent } from 'hooks/useTrackEvent';
 import './Header.css';
 
 const languages = [
@@ -26,6 +27,7 @@ export default function Header() {
   const navItems = [
     { path: '/', label: t('nav.home') },
     { path: '/about', label: t('nav.about') },
+    { path: '/chuong-trinh', label: t('nav.courses') },
     { path: '/enrollment', label: t('nav.enrollment') },
     { path: '/news', label: t('nav.news') },
     { path: '/contact', label: t('nav.contact') },
@@ -34,7 +36,10 @@ export default function Header() {
   const langMenuItems = languages.map((lang) => ({
     key: lang.key,
     label: (
-      <span onClick={() => i18n.changeLanguage(lang.key)}>
+      <span onClick={() => {
+        trackEvent('language_change', { from: i18n.language, to: lang.key });
+        i18n.changeLanguage(lang.key);
+      }}>
         {lang.flag} {lang.label}
       </span>
     ),

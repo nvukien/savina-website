@@ -1,0 +1,146 @@
+/* ==========================================
+   Enroll Funnel — /dang-ky
+   ========================================== */
+
+.enroll-section {
+  background: #f8fafc;
+  padding: 40px 24px 80px;
+  min-height: 60vh;
+}
+
+.enroll-inner {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.enroll-form-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 40px;
+  margin-top: 32px;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+}
+
+.enroll-form-card h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0 0 24px;
+}
+
+.enroll-actions {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 32px;
+}
+
+.enroll-actions > span {
+  display: inline-block;
+}
+
+/* Review */
+.enroll-review-block {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.enroll-review-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.enroll-review-header h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0;
+}
+
+.enroll-review-rows {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 8px 16px;
+  margin: 0;
+  font-size: 14px;
+}
+
+.enroll-review-rows dt {
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.enroll-review-rows dd {
+  margin: 0;
+  color: #1a1a2e;
+  font-weight: 500;
+}
+
+/* Success view */
+.enroll-success {
+  background: #f8fafc;
+  padding: 80px 24px;
+  min-height: 70vh;
+}
+
+.enroll-reg-code {
+  display: inline-block;
+  background: #134e4a;
+  color: #f59e0b;
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  padding: 12px 24px;
+  border-radius: 8px;
+  margin: 12px 0;
+}
+
+.page-cta-secondary {
+  background: transparent;
+  color: #2B8E96;
+  border: 1px solid #2B8E96;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.page-cta-secondary:hover {
+  background: rgba(43, 142, 150, 0.06);
+  color: #134e4a;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .enroll-section {
+    padding: 24px 16px 60px;
+  }
+  .enroll-form-card {
+    padding: 24px 20px;
+    border-radius: 12px;
+  }
+  .enroll-form-card h2 {
+    font-size: 19px;
+  }
+  .enroll-actions {
+    flex-direction: column;
+  }
+  .enroll-actions > span {
+    display: none;
+  }
+  .enroll-review-rows {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+  .enroll-review-rows dt {
+    margin-top: 8px;
+  }
+}

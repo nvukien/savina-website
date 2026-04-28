@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://savina.vn/</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/" />
+  </url>
+  <url>
+    <loc>https://savina.vn/about</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/about?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/about?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/about?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/about" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh" />
+  </url>
+  <url>
+    <loc>https://savina.vn/enrollment</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/enrollment?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/enrollment?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/enrollment?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/enrollment" />
+  </url>
+  <url>
+    <loc>https://savina.vn/dang-ky</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/dang-ky?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/dang-ky?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/dang-ky?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/dang-ky" />
+  </url>
+  <url>
+    <loc>https://savina.vn/news</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/news?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/news?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/news?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/news" />
+  </url>
+  <url>
+    <loc>https://savina.vn/contact</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/contact?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/contact?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/contact?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/contact" />
+  </url>
+  <url>
+    <loc>https://savina.vn/terms-of-service</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/terms-of-service?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/terms-of-service?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/terms-of-service?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/terms-of-service" />
+  </url>
+  <url>
+    <loc>https://savina.vn/privacy-policy</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/privacy-policy?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/privacy-policy?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/privacy-policy?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/privacy-policy" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/ngon-ngu-anh-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/ngon-ngu-trung-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/cong-nghe-thong-tin-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/cong-nghe-thong-tin-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/cong-nghe-thong-tin-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/cong-nghe-thong-tin-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/cong-nghe-thong-tin-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-tri-du-lich-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-tri-du-lich-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-tri-du-lich-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-tri-du-lich-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-tri-du-lich-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/ke-toan-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/ke-toan-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/ke-toan-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/ke-toan-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/ke-toan-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/luat-hoc-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/luat-hoc-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/luat-hoc-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/luat-hoc-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/luat-hoc-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/luat-kinh-te-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/luat-kinh-te-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/luat-kinh-te-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/luat-kinh-te-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/luat-kinh-te-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-ly-nha-nuoc-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-ly-nha-nuoc-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-ly-nha-nuoc-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-ly-nha-nuoc-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-ly-nha-nuoc-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-tri-khach-san-tdu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-tri-khach-san-tdu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-tri-khach-san-tdu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-tri-khach-san-tdu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-tri-khach-san-tdu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/ngon-ngu-anh-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/ngon-ngu-anh-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/ngon-ngu-trung-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/ngon-ngu-trung-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/ke-toan-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/ke-toan-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/ke-toan-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/ke-toan-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/ke-toan-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/tai-chinh-ngan-hang-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/tai-chinh-ngan-hang-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/tai-chinh-ngan-hang-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/tai-chinh-ngan-hang-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/tai-chinh-ngan-hang-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-tri-kinh-doanh-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-ly-dat-dai-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-ly-dat-dai-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-ly-dat-dai-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-ly-dat-dai-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-ly-dat-dai-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/cong-tac-xa-hoi-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/cong-tac-xa-hoi-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/cong-tac-xa-hoi-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/cong-tac-xa-hoi-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/cong-tac-xa-hoi-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/khoa-hoc-moi-truong-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/khoa-hoc-moi-truong-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/khoa-hoc-moi-truong-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/khoa-hoc-moi-truong-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/khoa-hoc-moi-truong-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/nong-hoc-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/nong-hoc-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/nong-hoc-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/nong-hoc-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/nong-hoc-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/nuoi-trong-thuy-san-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/nuoi-trong-thuy-san-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/nuoi-trong-thuy-san-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/nuoi-trong-thuy-san-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/nuoi-trong-thuy-san-dthu" />
+  </url>
+  <url>
+    <loc>https://savina.vn/chuong-trinh/quan-ly-van-hoa-dthu</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://savina.vn/chuong-trinh/quan-ly-van-hoa-dthu?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://savina.vn/chuong-trinh/quan-ly-van-hoa-dthu?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://savina.vn/chuong-trinh/quan-ly-van-hoa-dthu?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://savina.vn/chuong-trinh/quan-ly-van-hoa-dthu" />
+  </url>
+</urlset>

@@ -12,6 +12,7 @@ import {
 } from '@ant-design/icons';
 import usePageMeta from 'hooks/usePageMeta';
 import FadeInSection from 'components/FadeInSection';
+import { trackEvent } from 'hooks/useTrackEvent';
 import '../pages.css';
 
 const { TextArea } = Input;
@@ -49,6 +50,9 @@ export default function Contact() {
       setSent(true);
       form.resetFields();
       message.success('Gửi thành công! Chúng tôi sẽ phản hồi sớm nhất.');
+      trackEvent('contact_submit', {
+        subject: values.subject || 'general',
+      });
     } catch (error) {
       console.error('EmailJS error:', error);
       message.error('Có lỗi xảy ra. Vui lòng thử lại hoặc liên hệ trực tiếp qua hotline.');

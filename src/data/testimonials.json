@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "lastUpdated": "2026-04-28",
+    "version": "0.1.0",
+    "notes": "Tất cả entries hiện đang là PLACEHOLDER (isPlaceholder=true). Component sẽ render badge [Demo] và KHÔNG xuất Schema.org Review cho entries này. Sếp swap data thật + đặt isPlaceholder=false để remove badge và enable Schema.org."
+  },
+  "testimonials": [
+    {
+      "id": "tm-001",
+      "isPlaceholder": true,
+      "name": "[Demo] Nguyễn Thị Mai",
+      "role": "Học viên Ngôn ngữ Anh - ĐH Thành Đông, Khóa 2024",
+      "location": "Tokyo, Nhật Bản",
+      "currentJob": "Nhân viên giao hàng tại 7-Eleven",
+      "avatarInitials": "NM",
+      "videoUrl": null,
+      "rating": 5,
+      "courseSlug": "ngon-ngu-anh-tdu",
+      "quote": "Mình làm 8 tiếng/ngày tại Tokyo, học online buổi tối + cuối tuần. Sau 2 năm đã có bằng cử nhân. Bằng giúp mình thi được visa kỹ năng đặc định, lương tăng gần gấp đôi.",
+      "publishedAt": "2026-03-15"
+    },
+    {
+      "id": "tm-002",
+      "isPlaceholder": true,
+      "name": "[Demo] Trần Văn Hùng",
+      "role": "Học viên CNTT - ĐH Thành Đông, Khóa 2023",
+      "location": "Đài Bắc, Đài Loan",
+      "currentJob": "Kỹ thuật viên xưởng",
+      "avatarInitials": "TH",
+      "videoUrl": null,
+      "rating": 5,
+      "courseSlug": "cong-nghe-thong-tin-tdu",
+      "quote": "Trước đây mình chỉ có bằng nghề. Học CNTT online tại Savina giúp mình chuyển sang công ty Đài có hỗ trợ kỹ sư phần mềm. Học vừa làm rất phù hợp.",
+      "publishedAt": "2026-02-20"
+    },
+    {
+      "id": "tm-003",
+      "isPlaceholder": true,
+      "name": "[Demo] Lê Thị Hồng",
+      "role": "Học viên Kế toán - ĐH Đồng Tháp, Khóa 2024",
+      "location": "Seoul, Hàn Quốc",
+      "currentJob": "Nhân viên văn phòng tại công ty Hàn",
+      "avatarInitials": "LH",
+      "videoUrl": null,
+      "rating": 5,
+      "courseSlug": "ke-toan-dthu",
+      "quote": "Học phí rẻ, có thể đóng theo từng kỳ rất tiện. Cô giáo nhiệt tình, có thể hỏi qua email bất cứ lúc nào. Mình rút ngắn được 1.5 năm vì đã tốt nghiệp Cao đẳng.",
+      "publishedAt": "2026-01-10"
+    },
+    {
+      "id": "tm-004",
+      "isPlaceholder": true,
+      "name": "[Demo] Phạm Quốc Tuấn",
+      "role": "Học viên Luật - ĐH Thành Đông, Khóa 2024",
+      "location": "Hà Nội, Việt Nam",
+      "currentJob": "Trưởng phòng nhân sự",
+      "avatarInitials": "PT",
+      "videoUrl": null,
+      "rating": 5,
+      "courseSlug": "luat-hoc-tdu",
+      "quote": "Mình cần bằng Luật để thăng tiến vị trí. Học từ xa Savina giúp mình hoàn thành mà không phải nghỉ việc. Bằng đại học chính quy được công ty công nhận đầy đủ.",
+      "publishedAt": "2025-12-22"
+    },
+    {
+      "id": "tm-005",
+      "isPlaceholder": true,
+      "name": "[Demo] Vũ Hoàng Anh",
+      "role": "Học viên QTKD - ĐH Đồng Tháp, Khóa 2023",
+      "location": "Đào Viên, Đài Loan",
+      "currentJob": "Quản lý kho",
+      "avatarInitials": "VA",
+      "videoUrl": null,
+      "rating": 4,
+      "courseSlug": "quan-tri-kinh-doanh-dthu",
+      "quote": "Hệ thống e-learning ổn định, video bài giảng rõ ràng. Có một số môn cần cố gắng tự học vì không có lớp live. Tổng thể là worth — bằng cấp + thời gian linh hoạt.",
+      "publishedAt": "2025-11-05"
+    }
+  ]
+}

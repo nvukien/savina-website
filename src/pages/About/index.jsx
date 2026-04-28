@@ -4,6 +4,7 @@ import { AimOutlined, EyeOutlined, ReadOutlined, RobotOutlined, TeamOutlined } f
 import usePageMeta from 'hooks/usePageMeta';
 import FadeInSection from 'components/FadeInSection';
 import SectionHeader from 'components/SectionHeader';
+import TestimonialSection from 'components/TestimonialSection';
 import '../pages.css';
 
 const values = [
@@ -81,6 +82,11 @@ export default function About() {
             </div>
           </div>
         </FadeInSection>
+      </section>
+
+      {/* Testimonials */}
+      <section style={{ background: '#fff' }}>
+        <TestimonialSection title="Câu chuyện học viên Savina" />
       </section>
 
       {/* Core Values */}

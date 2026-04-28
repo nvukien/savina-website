@@ -1,0 +1,135 @@
+.testimonial-section {
+  padding: 80px 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.testimonial-carousel-wrap {
+  max-width: 800px;
+  margin: 32px auto 0;
+}
+
+.testimonial-card {
+  background: #fff;
+  border: 1px solid #f0f0f0;
+  border-radius: 16px;
+  padding: 40px;
+  margin: 0 8px 40px;
+  position: relative;
+  text-align: center;
+}
+
+.testimonial-demo-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #fef3c7;
+  color: #92400e;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.testimonial-quote {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.testimonial-quote-mark {
+  font-family: serif;
+  font-size: 80px;
+  color: rgba(43, 142, 150, 0.18);
+  line-height: 1;
+  position: absolute;
+  top: -20px;
+  left: -16px;
+  font-weight: 700;
+}
+
+.testimonial-quote p {
+  font-size: 17px;
+  color: #1a1a2e;
+  line-height: 1.7;
+  font-style: italic;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.testimonial-rate {
+  margin: 16px 0 24px;
+  font-size: 18px;
+  color: #f59e0b;
+}
+
+.testimonial-author {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  justify-content: center;
+  text-align: left;
+  border-top: 1px dashed #e5e7eb;
+  padding-top: 24px;
+}
+
+.testimonial-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: rgba(43, 142, 150, 0.12);
+  color: #2B8E96;
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.testimonial-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+.testimonial-role {
+  font-size: 13px;
+  color: #6b7280;
+  margin-top: 2px;
+}
+
+.testimonial-location {
+  font-size: 12px;
+  color: #9ca3af;
+  margin-top: 4px;
+}
+
+/* AntD Carousel dots override */
+.testimonial-carousel-wrap .ant-carousel .slick-dots li button {
+  background: #2B8E96 !important;
+}
+
+@media (max-width: 768px) {
+  .testimonial-section {
+    padding: 48px 16px;
+  }
+  .testimonial-card {
+    padding: 24px;
+    margin: 0 4px 32px;
+  }
+  .testimonial-quote p {
+    font-size: 15px;
+  }
+  .testimonial-quote-mark {
+    font-size: 60px;
+    top: -10px;
+    left: -8px;
+  }
+  .testimonial-author {
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+  }
+}
