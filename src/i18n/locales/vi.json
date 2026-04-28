@@ -8,9 +8,9 @@
     "register": "Đăng ký"
   },
   "hero": {
-    "title": "Giáo dục & Công nghệ",
-    "titleHighlight": "cho Kỷ nguyên AI",
-    "subtitle": "Savina đồng hành cùng bạn trên hành trình học tập, phát triển nghề nghiệp và ứng dụng trí tuệ nhân tạo trong kỷ nguyên mới",
+    "title": "Giáo dục cho",
+    "titleHighlight": "Kỷ nguyên AI",
+    "subtitle": "Bằng cấp đại học chính quy + năng lực AI ứng dụng — Savina xoá khoảng cách giữa học vấn truyền thống và yêu cầu thực tế của thời đại mới.",
     "cta": "Tìm hiểu chương trình",
     "ctaSecondary": "Về Savina"
   },
@@ -22,54 +22,56 @@
   },
   "services": {
     "title": "Dịch vụ của chúng tôi",
-    "subtitle": "Savina cung cấp giải pháp toàn diện trong Nhân sự, Giáo dục và Nông nghiệp công nghệ cao",
+    "subtitle": "Savina cung cấp giải pháp EdTech toàn diện: tuyển sinh đại học từ xa, platform e-learning AI, đào tạo kỹ năng AI và giới thiệu nhân sự chất lượng cao",
     "enrollment": {
-      "title": "Tuyển sinh ĐH từ xa",
-      "desc": "Liên kết tuyển sinh đại học từ xa với ĐH Thành Đông và ĐH Đồng Tháp — cấp bằng chính quy, học online, phù hợp người đi làm tại Việt Nam, Nhật Bản, Hàn Quốc, Đài Loan."
+      "title": "Tuyển sinh Đại học từ xa",
+      "tagline": "Bằng cấp đại học chính quy, học 100% online — cho người Việt mọi nơi",
+      "desc": "Hợp tác trường đại học VN, cấp bằng đại học chính quy. Học 100% online, phù hợp người Việt đang sống và làm việc tại Việt Nam, Nhật Bản, Hàn Quốc, Đài Loan."
     },
     "elearning": {
-      "title": "Đào tạo tiếng Nhật",
-      "desc": "Chương trình đào tạo tiếng Nhật từ N5 đến N3, đảm bảo đạt N4 trước khi xuất cảnh. Giảng viên giàu kinh nghiệm, đã nghiên cứu và làm việc tại Nhật Bản."
+      "title": "Platform E-learning AI",
+      "desc": "Nền tảng học tập tích hợp AI tutor, lộ trình cá nhân hoá theo trình độ và mục tiêu nghề nghiệp của từng học viên."
     },
     "edtech": {
-      "title": "Nông nghiệp công nghệ cao",
-      "desc": "Tích hợp và ứng dụng công nghệ cao trong nghiên cứu, thử nghiệm và sản xuất nông nghiệp, nâng cao năng suất và chất lượng nông sản."
+      "title": "Giải pháp AI cho Giáo dục",
+      "desc": "Triển khai ứng dụng AI vào giảng dạy, tuyển sinh và đánh giá năng lực — cho trường, trung tâm và doanh nghiệp đào tạo."
     },
     "training": {
-      "title": "Xuất khẩu lao động",
-      "desc": "Cung ứng lao động sang thị trường Nhật Bản với hợp đồng trực tiếp từ doanh nghiệp, đào tạo bài bản về kỹ năng nghề và ngôn ngữ."
+      "title": "Đào tạo kỹ năng AI",
+      "desc": "Khoá học thực chiến: AI cho công việc, AI cho doanh nghiệp, AI cho từng ngành nghề — học xong dùng được ngay."
     },
     "assessment": {
-      "title": "Tư vấn du học",
-      "desc": "Tư vấn và hỗ trợ thủ tục du học Nhật Bản, liên kết với các học viện uy tín như Học viện Tam Lập Tokyo."
+      "title": "AI Career Test & Hướng nghiệp",
+      "desc": "Bài đánh giá năng lực + đề xuất ngành học và lộ trình nghề nghiệp phù hợp với kỷ nguyên AI."
     },
     "career": {
-      "title": "Hướng nghiệp & Việc làm",
-      "desc": "Tư vấn hướng nghiệp, kết nối việc làm cho lao động Việt Nam tại Nhật Bản và sau khi về nước."
+      "title": "Giới thiệu nhân sự chất lượng cao",
+      "desc": "Kết nối học viên Savina với doanh nghiệp đối tác — nhân sự đã được đào tạo bằng cấp chính quy và năng lực AI ứng dụng."
     }
   },
   "partners": {
     "title": "Đối tác chiến lược",
-    "subtitle": "Savina hợp tác với các trường đại học và tổ chức uy tín"
+    "subtitle": "Savina hợp tác với các trường đại học và tổ chức uy tín được Bộ Giáo dục & Đào tạo công nhận"
   },
   "cta": {
     "title": "Sẵn sàng bắt đầu hành trình mới?",
-    "subtitle": "Đăng ký ngay để nhận tư vấn miễn phí về chương trình tuyển sinh ĐH từ xa, xuất khẩu lao động hoặc du học Nhật Bản",
+    "subtitle": "Đăng ký nhận tư vấn miễn phí về tuyển sinh đại học từ xa, đào tạo AI và lộ trình nghề nghiệp phù hợp với bạn",
     "button": "Đăng ký tư vấn"
   },
   "about": {
     "title": "Về Savina",
+    "tagline": "Câu chuyện và sứ mệnh của doanh nghiệp EdTech cho kỷ nguyên AI",
     "story": {
       "title": "Câu chuyện của chúng tôi",
-      "content": "Công ty Cổ phần Đầu tư Quốc tế SAVINA hoạt động trong lĩnh vực phát triển nguồn nhân lực cho thị trường Nhật Bản, đào tạo đại học từ xa và ứng dụng nông nghiệp công nghệ cao. Savina tự hào là đơn vị đào tạo và cung ứng lao động hàng đầu Việt Nam, với đội ngũ giảng viên giàu kinh nghiệm và cơ sở vật chất hiện đại. Chúng tôi cam kết phát triển toàn diện người lao động thông qua các chương trình đào tạo chuyên sâu về kiến thức, kỹ năng mềm và tác phong chuyên nghiệp."
+      "content": "Công ty TNHH Đầu tư Quốc tế Savina là doanh nghiệp EdTech tập trung vào giáo dục và công nghệ AI. Chúng tôi tin rằng học vấn cũ không còn đủ cho thế giới mới — bằng cấp truyền thống vẫn rất quan trọng, nhưng chưa đủ. Savina ra đời để xoá đi khoảng cách đó: kết hợp tuyển sinh đại học từ xa cấp bằng chính quy với platform e-learning tích hợp AI, đào tạo kỹ năng AI thực chiến và giới thiệu nhân sự chất lượng cao cho doanh nghiệp."
     },
     "mission": {
       "title": "Sứ mệnh",
-      "content": "Mang đến cơ hội phát triển nghề nghiệp và học tập chất lượng cao cho người Việt Nam, đặc biệt là lao động tại nước ngoài, thông qua đào tạo bài bản và kết nối trực tiếp với doanh nghiệp."
+      "content": "Mang cơ hội học tập và phát triển nghề nghiệp chất lượng cao đến người Việt Nam — đặc biệt là cộng đồng đang sinh sống và làm việc tại Nhật Bản, Hàn Quốc và Đài Loan — thông qua giải pháp EdTech tiện lợi, thực tế, gắn nhu cầu xã hội thật."
     },
     "vision": {
       "title": "Tầm nhìn",
-      "content": "Trở thành đơn vị hàng đầu Việt Nam trong lĩnh vực phát triển nguồn nhân lực quốc tế, đào tạo từ xa và ứng dụng công nghệ vào giáo dục và nông nghiệp."
+      "content": "Trở thành đơn vị EdTech hàng đầu Việt Nam trong lĩnh vực kết hợp đào tạo từ xa cấp bằng đại học chính quy với năng lực AI ứng dụng — tạo ra thế hệ nhân sự sẵn sàng cho kỷ nguyên AI."
     }
   },
   "contact": {
@@ -84,18 +86,21 @@
       "submit": "Gửi tin nhắn"
     },
     "info": {
-      "address": "Tầng 12, Tòa nhà Mipec, 229 Tây Sơn, Ngô Tự Sơ, Đống Đa, Hà Nội",
+      "address": "Tầng 12, Khu văn phòng, Tòa Mipec Tower, Số 229 Tây Sơn, Phường Kim Liên, Thành phố Hà Nội, Việt Nam",
       "phone": "0913 187 386",
       "email": "info@savina.vn",
       "hours": "Thứ 2 - Thứ 6: 8:00 - 17:30"
     }
   },
   "footer": {
-    "desc": "Nhân sự · Giáo dục · Nông nghiệp công nghệ cao",
+    "desc": "EdTech · AI · Tuyển sinh ĐH từ xa",
     "quickLinks": "Liên kết nhanh",
     "services": "Dịch vụ",
     "contactInfo": "Liên hệ",
-    "copyright": "© 2026 Công ty Cổ phần Đầu tư Quốc tế SAVINA. All rights reserved."
+    "legalTitle": "Thông tin pháp lý",
+    "companyName": "Công ty TNHH Đầu tư Quốc tế Savina",
+    "taxCode": "MST: 0110082414",
+    "copyright": "© 2026 Công ty TNHH Đầu tư Quốc tế Savina. All rights reserved."
   },
   "notFound": "Trang bạn tìm kiếm không tồn tại."
 }

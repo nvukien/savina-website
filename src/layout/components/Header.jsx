@@ -22,14 +22,13 @@ export default function Header() {
 
   const currentLang = languages.find((l) => l.key === i18n.language) || languages[0];
 
+  // Terms & Privacy moved to footer only (declutter header).
   const navItems = [
     { path: '/', label: t('nav.home') },
     { path: '/about', label: t('nav.about') },
     { path: '/enrollment', label: t('nav.enrollment') },
     { path: '/news', label: t('nav.news') },
     { path: '/contact', label: t('nav.contact') },
-    { path: '/terms-of-service', label: 'Điều khoản' },
-    { path: '/privacy-policy', label: 'Bảo mật' },
   ];
 
   const langMenuItems = languages.map((lang) => ({

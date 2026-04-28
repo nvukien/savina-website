@@ -1,22 +1,22 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { AimOutlined, EyeOutlined, TeamOutlined, GlobalOutlined, SafetyCertificateOutlined } from '@ant-design/icons';
+import { AimOutlined, EyeOutlined, ReadOutlined, RobotOutlined, TeamOutlined } from '@ant-design/icons';
 import usePageMeta from 'hooks/usePageMeta';
 import FadeInSection from 'components/FadeInSection';
 import SectionHeader from 'components/SectionHeader';
 import '../pages.css';
 
 const values = [
-  { titleVi: 'Chất lượng đào tạo', desc: 'Đặt chất lượng đào tạo làm tiêu chí hàng đầu, trang bị cho người lao động kiến thức, kỹ năng và ngôn ngữ toàn diện.' },
-  { titleVi: 'Kết nối trực tiếp', desc: 'Hợp đồng trực tiếp với doanh nghiệp Nhật Bản, đảm bảo quyền lợi và điều kiện làm việc tốt nhất cho lao động.' },
-  { titleVi: 'Đồng hành toàn diện', desc: 'Hỗ trợ trước, trong và sau khi lao động xuất cảnh — từ đào tạo, thủ tục đến hỗ trợ tại nước ngoài.' },
-  { titleVi: 'Ứng dụng công nghệ', desc: 'Tiên phong ứng dụng công nghệ vào giáo dục từ xa và nông nghiệp, nâng cao hiệu quả đào tạo và sản xuất.' },
+  { titleVi: 'Học vấn cho thời đại mới', desc: 'Bằng cấp đại học chính quy + năng lực AI thực chiến — kết hợp nền tảng truyền thống với công cụ của thời đại.' },
+  { titleVi: 'Tiện lợi cho người đi làm', desc: 'Học 100% online, linh hoạt thời gian. Phù hợp với người Việt đang sống và làm việc tại VN, Nhật, Hàn, Đài Loan.' },
+  { titleVi: 'Thực tế và đo lường được', desc: 'Khoá học thiết kế theo nhu cầu công việc thật. Học xong có sản phẩm, có chứng chỉ, có lộ trình nghề rõ ràng.' },
+  { titleVi: 'Đối tác đáng tin cậy', desc: 'Liên kết với các trường đại học được Bộ GD&ĐT Việt Nam công nhận. Bằng tốt nghiệp có giá trị tương đương hệ chính quy.' },
 ];
 
 const bizAreas = [
-  { icon: <TeamOutlined />, title: 'SAVINA HR', desc: 'Đào tạo và cung ứng nguồn nhân lực chất lượng cao cho thị trường Nhật Bản. Chương trình đào tạo tiếng Nhật, kỹ năng nghề và văn hóa Nhật Bản.' },
-  { icon: <GlobalOutlined />, title: 'SAVINA E-Learning', desc: 'Liên kết tuyển sinh đại học từ xa với ĐH Thành Đông và ĐH Đồng Tháp, phục vụ người Việt Nam tại Nhật Bản, Hàn Quốc, Đài Loan.' },
-  { icon: <SafetyCertificateOutlined />, title: 'SAVINA AGRI', desc: 'Tích hợp và ứng dụng công nghệ cao trong nghiên cứu, thử nghiệm và sản xuất nông nghiệp, góp phần phát triển bền vững ngành nông nghiệp.' },
+  { icon: <ReadOutlined />, title: 'SAVINA EDU', desc: 'Tuyển sinh đại học từ xa hợp tác với các trường đại học VN. Cấp bằng đại học chính quy được Bộ GD&ĐT công nhận, học 100% online.' },
+  { icon: <RobotOutlined />, title: 'SAVINA AI', desc: 'Platform e-learning tích hợp AI tutor + các khoá đào tạo kỹ năng AI thực chiến cho cá nhân, doanh nghiệp và đơn vị giáo dục.' },
+  { icon: <TeamOutlined />, title: 'SAVINA TALENT', desc: 'AI Career Test, hướng nghiệp trong kỷ nguyên AI và giới thiệu nhân sự chất lượng cao đã được đào tạo bằng cấp + năng lực AI.' },
 ];
 
 export default function About() {
@@ -27,7 +27,7 @@ export default function About() {
     <>
       <section className="page-hero">
         <h1>{t('about.title')}</h1>
-        <p>{t('footer.desc')}</p>
+        <p>{t('about.tagline')}</p>
       </section>
 
       {/* Story */}

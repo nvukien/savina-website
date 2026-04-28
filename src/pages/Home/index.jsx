@@ -37,7 +37,7 @@ const statsData = [
   { value: '15+', key: 'partners' },
 ];
 
-const partners = ['ĐH Thành Đông', 'ĐH Đồng Tháp', 'Học viện Tam Lập Tokyo'];
+const partners = ['ĐH Thành Đông', 'ĐH Đồng Tháp'];
 
 export default function Home() {
   const { t } = useTranslation();

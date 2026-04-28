@@ -35,7 +35,7 @@ export default function Enrollment() {
     <>
       <section className="page-hero">
         <h1>{t('nav.enrollment')}</h1>
-        <p>{t('services.enrollment.desc')}</p>
+        <p>{t('services.enrollment.tagline')}</p>
       </section>
 
       {/* Benefits */}

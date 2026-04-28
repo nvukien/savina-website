@@ -16,10 +16,11 @@ import '../pages.css';
 
 const { TextArea } = Input;
 
-// EmailJS config
-const EMAILJS_SERVICE_ID = 'service_savina';
-const EMAILJS_TEMPLATE_ID = 'template_q5d0x3q';
-const EMAILJS_PUBLIC_KEY = 'Ueybh4cNw7HwfF26I';
+// EmailJS config — read from env (Vite expose VITE_*)
+// See .env.example for template; .env is gitignored.
+const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+const EMAILJS_PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
 export default function Contact() {
   const { t } = useTranslation();
@@ -148,10 +149,16 @@ export default function Contact() {
                     </div>
                   ))}
                 </div>
-                <div className="contact-map-placeholder">
-                  <EnvironmentOutlined style={{ fontSize: 24 }} />
-                  Google Maps — sẽ tích hợp sau
-                </div>
+                <iframe
+                  title="Vị trí văn phòng Savina — Mipec Tower, 229 Tây Sơn, Hà Nội"
+                  src="https://www.google.com/maps?q=Mipec+Tower+229+T%C3%A2y+S%C6%A1n+Ng%C3%A3+T%C6%B0+S%E1%BB%9F+H%C3%A0+N%E1%BB%99i&output=embed"
+                  width="100%"
+                  height="300"
+                  style={{ border: 0, borderRadius: 12, marginTop: 24 }}
+                  allowFullScreen=""
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                />
               </div>
             </div>
           </div>

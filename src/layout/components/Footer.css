@@ -67,12 +67,34 @@
   flex-shrink: 0;
 }
 
+/* Legal info bar */
+.footer-legal-info {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px 24px 8px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.footer-legal-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+}
+
+.footer-legal-row-muted {
+  color: rgba(255, 255, 255, 0.4);
+  margin-top: 4px;
+}
+
 /* Bottom bar */
 .footer-bottom {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 24px 24px;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 16px 24px 24px;
   text-align: center;
   color: rgba(255, 255, 255, 0.35);
   font-size: 13px;

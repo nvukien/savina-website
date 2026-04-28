@@ -65,6 +65,17 @@ export default function Footer() {
         </div>
       </div>
 
+      <div className="footer-legal-info">
+        <div className="footer-legal-row">
+          <strong>{t('footer.companyName')}</strong>
+          <span className="footer-legal-sep">·</span>
+          <span>{t('footer.taxCode')}</span>
+        </div>
+        <div className="footer-legal-row footer-legal-row-muted">
+          {t('contact.info.address')}
+        </div>
+      </div>
+
       <div className="footer-bottom">
         <div>{t('footer.copyright')}</div>
         <div className="footer-legal">

@@ -8,9 +8,9 @@
     "register": "Register"
   },
   "hero": {
-    "title": "Education & Technology",
-    "titleHighlight": "for the AI Era",
-    "subtitle": "Savina accompanies you on your journey of learning, career development, and applying artificial intelligence in the new era",
+    "title": "Education for the",
+    "titleHighlight": "AI Era",
+    "subtitle": "Accredited university degrees + applied AI skills — Savina bridges traditional education with the demands of the new era.",
     "cta": "Explore Programs",
     "ctaSecondary": "About Savina"
   },
@@ -22,54 +22,56 @@
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Savina provides comprehensive solutions in Human Resources, Education, and High-tech Agriculture",
+    "subtitle": "Savina provides comprehensive EdTech solutions: distance university enrollment, AI e-learning platform, AI skills training, and high-quality talent placement",
     "enrollment": {
       "title": "Distance University Enrollment",
-      "desc": "Distance learning degree programs in partnership with Thanh Dong University and Dong Thap University — accredited degrees, online learning, ideal for workers in Vietnam, Japan, Korea, and Taiwan."
+      "tagline": "Accredited university degrees, 100% online — for Vietnamese everywhere",
+      "desc": "Partnerships with Vietnamese universities to grant accredited degrees. 100% online learning, ideal for Vietnamese living and working in Vietnam, Japan, Korea, and Taiwan."
     },
     "elearning": {
-      "title": "Japanese Language Training",
-      "desc": "Japanese language programs from N5 to N3, ensuring N4 proficiency before departure. Experienced instructors who have studied and worked in Japan."
+      "title": "AI E-learning Platform",
+      "desc": "A learning platform with built-in AI tutor and personalized roadmaps tailored to each learner's level and career goals."
     },
     "edtech": {
-      "title": "High-tech Agriculture",
-      "desc": "Integrating and applying advanced technology in agricultural research, experimentation, and production to improve productivity and quality."
+      "title": "AI Solutions for Education",
+      "desc": "Deploying AI applications in teaching, enrollment, and competency assessment — for schools, training centers, and enterprises."
     },
     "training": {
-      "title": "Labor Export to Japan",
-      "desc": "Supplying workforce to the Japanese market with direct employer contracts, comprehensive training in vocational skills and language."
+      "title": "AI Skills Training",
+      "desc": "Practical courses: AI for work, AI for business, AI for specific industries — finish a course and apply it immediately."
     },
     "assessment": {
-      "title": "Study Abroad Consulting",
-      "desc": "Consulting and supporting study abroad procedures for Japan, partnered with prestigious institutions like Tamritsu Tokyo Academy."
+      "title": "AI Career Test & Counseling",
+      "desc": "Competency assessment + recommended majors and career paths suited to the AI era."
     },
     "career": {
-      "title": "Career & Employment",
-      "desc": "Career counseling, connecting employment opportunities for Vietnamese workers in Japan and upon their return."
+      "title": "High-quality Talent Placement",
+      "desc": "Connecting Savina graduates with partner enterprises — talent equipped with both accredited degrees and applied AI skills."
     }
   },
   "partners": {
     "title": "Strategic Partners",
-    "subtitle": "Savina partners with prestigious universities and organizations"
+    "subtitle": "Savina partners with reputable universities and organizations recognized by the Ministry of Education and Training"
   },
   "cta": {
     "title": "Ready to start a new journey?",
-    "subtitle": "Register now for a free consultation on distance university enrollment, labor export, or studying in Japan",
+    "subtitle": "Register for a free consultation on distance university enrollment, AI training, and a career path tailored to you",
     "button": "Register for Consultation"
   },
   "about": {
     "title": "About Savina",
+    "tagline": "The story and mission of an EdTech company for the AI era",
     "story": {
       "title": "Our Story",
-      "content": "SAVINA International Investment Joint Stock Company operates in human resource development for the Japanese market, distance university education, and high-tech agricultural applications. Savina is proud to be a leading training and labor supply enterprise in Vietnam, with experienced instructors and modern facilities. We are committed to the comprehensive development of workers through specialized programs in knowledge, soft skills, and professional conduct."
+      "content": "Savina International Investment Co., Ltd. is an EdTech company focused on education and AI technology. We believe traditional education alone is no longer enough for today's world — degrees still matter, but they're not sufficient. Savina was founded to close that gap: combining accredited distance university enrollment with an AI-integrated e-learning platform, practical AI skills training, and high-quality talent placement for partner enterprises."
     },
     "mission": {
       "title": "Our Mission",
-      "content": "Bringing high-quality career development and learning opportunities to Vietnamese people, especially workers abroad, through professional training and direct enterprise connections."
+      "content": "Bring high-quality learning and career opportunities to Vietnamese people — especially the community living and working in Japan, Korea, and Taiwan — through convenient, practical EdTech solutions aligned with real social needs."
     },
     "vision": {
       "title": "Our Vision",
-      "content": "To become Vietnam's leading enterprise in international human resource development, distance education, and technology applications in education and agriculture."
+      "content": "Become Vietnam's leading EdTech enterprise combining accredited distance university degrees with applied AI skills — building a generation of talent ready for the AI era."
     }
   },
   "contact": {
@@ -84,18 +86,21 @@
       "submit": "Send Message"
     },
     "info": {
-      "address": "12th Floor, Mipec Tower, 229 Tay Son, Ngo Tu So, Dong Da, Hanoi",
+      "address": "12th Floor, Office Area, Mipec Tower, 229 Tay Son, Kim Lien Ward, Hanoi, Vietnam",
       "phone": "0913 187 386",
       "email": "info@savina.vn",
       "hours": "Mon - Fri: 8:00 - 17:30"
     }
   },
   "footer": {
-    "desc": "Human Resources · Education · High-tech Agriculture",
+    "desc": "EdTech · AI · Distance University Enrollment",
     "quickLinks": "Quick Links",
     "services": "Services",
     "contactInfo": "Contact",
-    "copyright": "© 2026 SAVINA International Investment JSC. All rights reserved."
+    "legalTitle": "Legal Information",
+    "companyName": "Savina International Investment Co., Ltd.",
+    "taxCode": "Tax ID: 0110082414",
+    "copyright": "© 2026 Savina International Investment Co., Ltd. All rights reserved."
   },
   "notFound": "The page you are looking for does not exist."
 }

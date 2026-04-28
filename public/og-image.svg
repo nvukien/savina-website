@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d2e2f"/>
+      <stop offset="40%" stop-color="#134e4a"/>
+      <stop offset="100%" stop-color="#2B8E96"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="900" cy="180" r="280" fill="url(#orb)"/>
+  <circle cx="950" cy="180" r="120" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <circle cx="950" cy="180" r="180" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+  <circle cx="950" cy="180" r="240" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+
+  <g transform="translate(90, 110)">
+    <circle cx="32" cy="32" r="32" fill="rgba(43,142,150,0.15)" stroke="#2B8E96" stroke-width="2"/>
+    <path d="M14 38 C14 24, 27 16, 35 24 C42 32, 31 38, 26 34 C21 30, 31 22, 39 28 C47 33, 41 44, 30 44 C22 44, 14 38, 14 38 Z" stroke="#2B8E96" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <text x="80" y="42" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="600" letter-spacing="6" fill="#fff">SAVINA</text>
+  </g>
+
+  <g transform="translate(90, 230)">
+    <rect x="0" y="0" rx="18" ry="18" width="105" height="34" fill="rgba(245,158,11,0.18)" stroke="#f59e0b" stroke-width="1"/>
+    <circle cx="18" cy="17" r="4" fill="#f59e0b"/>
+    <text x="32" y="22" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#f59e0b">AI ERA</text>
+  </g>
+
+  <text x="90" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="600" fill="#fff">Giáo dục cho</text>
+  <text x="90" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="600" fill="#f59e0b">Kỷ nguyên AI</text>
+
+  <text x="90" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="rgba(255,255,255,0.78)">Bằng cấp đại học chính quy + năng lực AI ứng dụng</text>
+  <text x="90" y="522" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="rgba(255,255,255,0.78)">— Savina xoá khoảng cách giữa học vấn truyền thống và thời đại mới</text>
+
+  <text x="90" y="585" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="rgba(255,255,255,0.5)">savina.vn  ·  Tuyển sinh ĐH từ xa  ·  Đào tạo AI  ·  AI Career Test</text>
+</svg>
